@@ -4,8 +4,6 @@
 ## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
 
-My learning was focused on making a simple UI and a smooth UX, and have a seasonal animation for dark-mode. 
-
 ## Optimizations
 
 I would perhap make the instructions toggleable and added animations that reveal and play upon click to make the game feel more immersive.
