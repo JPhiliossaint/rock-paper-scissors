@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Press Start 2P', cursive;
+}
+body{
+    background-image: url(./../images/febg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    color: white;
+}
+h1{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    color: white;
+}
+
+img {
+    height: 60vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+table{
+height: 4vh;
+width: 30vw;
+margin-left: 40vw;
+}
